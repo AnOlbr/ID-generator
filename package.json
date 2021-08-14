@@ -1,0 +1,8 @@
+{
+  "name": "@anolbr/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:AnOlbr/ID-generator.git",
+  "author": "Aneta Olbromska <anetaolbromska@gmail.com>",
+  "license": "MIT"
+}
